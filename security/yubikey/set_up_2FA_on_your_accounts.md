@@ -77,6 +77,6 @@ LinkedIn   125623
 Paypal     [Requires Touch]
 ```
 
-**source**: [YubiKey Manager CLI (ykman) User Manual](https://support.yubico.com/hc/en-us/articles/360016614940-YubiKey-Manager-CLI-ykman-User-Manual)
-**source**: [Using Your Yubikey with Authenticator Codes](https://support.yubico.com/hc/en-us/articles/360013789259-Using-Your-YubiKey-with-Authenticator-Codes)
-**source**: [Can I Duplicate or Back Up a YubiKey?](https://support.yubico.com/hc/en-us/articles/360016614880-Can-I-Duplicate-or-Back-Up-a-YubiKey)
+* **source**: [YubiKey Manager CLI (ykman) User Manual](https://support.yubico.com/hc/en-us/articles/360016614940-YubiKey-Manager-CLI-ykman-User-Manual)
+* **source**: [Using Your Yubikey with Authenticator Codes](https://support.yubico.com/hc/en-us/articles/360013789259-Using-Your-YubiKey-with-Authenticator-Codes)
+* **source**: [Can I Duplicate or Back Up a YubiKey?](https://support.yubico.com/hc/en-us/articles/360016614880-Can-I-Duplicate-or-Back-Up-a-YubiKey)
